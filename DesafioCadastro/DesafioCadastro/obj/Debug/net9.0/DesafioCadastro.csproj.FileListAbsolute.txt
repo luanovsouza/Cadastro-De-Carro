@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\bin\Debug\net9.0\DesafioCadastro.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\bin\Debug\net9.0\DesafioCadastro.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\bin\Debug\net9.0\DesafioCadastro.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\bin\Debug\net9.0\DesafioCadastro.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\bin\Debug\net9.0\DesafioCadastro.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.sourcelink.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\refint\DesafioCadastro.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\DesafioCadastro.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro De Carro\Cadastro-De-Carro\DesafioCadastro\DesafioCadastro\obj\Debug\net9.0\ref\DesafioCadastro.dll
